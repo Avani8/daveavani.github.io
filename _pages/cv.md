@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Electronics and Communication Engineering, Veer Narmad South Gujarat University,2006
+* M.S. in Electrical Engineering, California State University Northridge, 2013
+* Ph.D in Computer engineering, University of Maryland Baltimore County, 2021 (expected)
 
 Work experience
 ======
@@ -25,7 +25,7 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Dr. Chintan Patel
   
 Skills
 ======
